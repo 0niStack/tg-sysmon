@@ -1,4 +1,4 @@
-# tg-sysmon
+# Telegram - Systems Monitoring
 
 Telegram bot that polls CPU, RAM, and disk usage for configured block devices
 (e.g. `/dev/sda`, `/dev/sdb`) and alerts a chat when any exceed threshold.
